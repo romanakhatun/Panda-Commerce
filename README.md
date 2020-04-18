@@ -15,9 +15,9 @@
 
   <br/>                          
                             
-# Let's Start Bootstrap4
+# Let's Start Bootstrap 4
 
-<img src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" data-canonical-src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" width="200" height="200" title="Bootstrap 4" />
+<img src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" data-canonical-src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" width="200" height="200" title="Bootstr 4"/>
 
 <br/>
 
