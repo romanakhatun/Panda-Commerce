@@ -1,6 +1,6 @@
 # PANDA COMMERCE
 
-#### Panda Commerce create with Bootstrap
+#### Panda Commerce create with HTML CSS and Bootstrap
 
 <br />
 
